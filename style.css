@@ -156,7 +156,7 @@ li {
     left: 0;
     top: 0;
     width: 1430px;
-    transition: 0.5s ease-out;
+    transition: 1s ease-out;
 }
 
 .controller span {
